@@ -10,8 +10,8 @@ body {
     margin-right: auto;
     background-color: burlywood;
 }
-.flavor {
-    text-align:left;
+.flavor, .dessert {
+    text-align: left;
     width: 75%;
 }
 .price {
