@@ -14,7 +14,7 @@ body {
     padding: 20px;
 }
 h1, h2 {
-    font-family: Impact;
+    font-family: Impact, serif;
 }
 .flavor, .dessert {
     text-align: left;
