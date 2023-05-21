@@ -26,4 +26,7 @@ h1, h2 {
 }
 .item p {
     display: inline-block;  
-} 
+}
+.established {
+    font-style: italic;
+  } 
