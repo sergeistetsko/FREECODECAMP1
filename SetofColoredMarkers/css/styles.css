@@ -7,7 +7,7 @@ h1 {
     margin: 10px auto;  
 }
 .red {
-    background-color: rgb(255, 0, 0);
+    background: rgb(255, 0, 0);
 }
 .green {
     background-color: #007F00;
