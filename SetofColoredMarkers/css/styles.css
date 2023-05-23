@@ -24,7 +24,8 @@ h1 {
     width: 110px;
     height: 25px;
     border-left-width: 10px;
-    border-left-style: solid; 
+    border-left-style: solid;
+    border-left-color: black; 
 }
 .cap {
     width: 60px;
