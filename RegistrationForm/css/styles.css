@@ -55,4 +55,6 @@ input[type="submit"] {
     font-size: 1.1rem;
     background-color: #3b3b4f;
     border-color: white;
+    min-width: 300px;
+    margin: 1em auto;
 }
