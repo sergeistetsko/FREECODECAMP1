@@ -11,3 +11,7 @@ label {
     display: block;
     margin: 0.5rem 0;
 }
+h1, p {
+    margin: 1em auto;
+    text-align: center;
+}
