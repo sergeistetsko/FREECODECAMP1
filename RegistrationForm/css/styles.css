@@ -21,3 +21,7 @@ form {
     min-width: 300px;
     width: 60vw;
 }
+fieldset {
+    border: 0;
+    padding: 2rem 0;
+}
