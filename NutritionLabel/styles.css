@@ -48,3 +48,8 @@ p {
     justify-content: space-between;
     align-items: flex-end;
 }
+.left-container p {
+    margin: -5px -2px;
+    font-size: 2em;
+    font-weight: 700;
+}
