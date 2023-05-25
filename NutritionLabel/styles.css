@@ -4,3 +4,6 @@ html {
 body {
     font-family: "Open Sans", sans-serif ;
 }
+.label {
+    border: 2px solid black;
+}
