@@ -17,6 +17,9 @@
     background-color: #efb762;
     margin: 20px auto;
 }
+.one, .two {
+    filter: blur(1px);  
+ }
 .two {
     width: 475px;
     height: 200px;
