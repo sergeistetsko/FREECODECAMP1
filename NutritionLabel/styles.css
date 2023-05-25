@@ -61,3 +61,7 @@ p {
 .medium {
     height: 5px;
 }
+.right {
+    display: flex;
+    justify-content: flex-end;
+}
